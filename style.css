@@ -3,7 +3,7 @@
     border-radius: 70px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 568px) {
     .wlogo {
       width: 140px;
     }
