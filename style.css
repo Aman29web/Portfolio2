@@ -2,3 +2,9 @@
     width: 224px;
     border-radius: 70px;
 }
+
+@media (max-width: 768px) {
+    .wlogo {
+      width: 140px;
+    }
+}
